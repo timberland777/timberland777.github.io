@@ -25,7 +25,7 @@ function R(min,max) { return min+Math.random() * (max-min) };
 
 /* https://mattboldt.com/typed.js/ */
 var typed = new Typed('#text', {
-    strings: ['Давай познакомимся!'],
+    strings: ['Рад знакомству с тобой, давай общаться и дружить?)'],
     startDelay: 3000,
     typeSpeed: 50,
     backSpeed: 0,
